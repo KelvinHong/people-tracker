@@ -1,0 +1,1 @@
+call "./venv/Scripts/python.exe" sort.py --xyxy 0.5 0 0.3 1 --inside 0 0 --use-video data/video1.mp4
